@@ -1,8 +1,8 @@
 ---
-title: "About"
+title: "Sobre Mim"
 permalink: /about/
 header:
- image: "/images/about.jpg"
+image: "/images/ab.jpg"
 ---
 
 Alagoano, formado em Engenharia de Petróleo, sempre entusiasta em aprender coisas novas e hoje dedico meu tempo a Ciência de Dados.
