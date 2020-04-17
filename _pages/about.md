@@ -1,8 +1,6 @@
 ---
 title: "Sobre mim"
 permalink: /about/
-	header:
-	image: "/images/ab.jpg"
 ---
 
 Alagoano, formado em Engenharia de Petróleo, sempre fui entusiasta em aprender
