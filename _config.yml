@@ -52,7 +52,7 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
-search_full_content      : true # true, false (default)
+search_full_content      : # true, false (default)
 search_provider          : lunr # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
@@ -63,7 +63,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification : "google836e42592ea9118d.html"
+google_site_verification : "cgzxw9dF778MqACI3YeDn5dYX_GAckG3E6V-Ve3B13U"
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
