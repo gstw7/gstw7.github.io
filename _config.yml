@@ -93,7 +93,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Gustavo de Melo"
+  name             : "Gustavo de M. Oliveira"
   avatar           : "/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portifolio"
   location         : "Maceió, AL"
@@ -104,7 +104,7 @@ author:
       url: mailto:gust4vo-mlo@hotmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://your-website.com"
+     # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/gst_m"
