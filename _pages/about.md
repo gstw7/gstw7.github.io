@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-	image: "/images/about.jpg"
+image: "/images/about.jpg"
 ---
 
 Alagoano, formado em Engenharia de Petróleo, sempre fui uma pessoa curiosa e
