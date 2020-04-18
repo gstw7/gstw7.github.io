@@ -403,7 +403,6 @@ plt.style.use('seaborn')
 # Plot a histogram of combined points
 plt.hist(super_bowls['combined_pts'])
 
-# ... YOUR CODE FOR TASK 3 ...
 plt.xlabel('Combined Points')
 plt.ylabel('Number of Super Bowls')
 plt.show()
@@ -632,7 +631,7 @@ display(super_bowls[super_bowls['difference_pts'] >= 35])
 ```
 
 
-![png]({{ "/assets/images/TV, Halftime Shows, and the Big Game/output_7_0.png }})
+![png]({{ "/assets/images/TV, Halftime Shows, and the Big Game/output_7_0.png" }})
 
 
 
