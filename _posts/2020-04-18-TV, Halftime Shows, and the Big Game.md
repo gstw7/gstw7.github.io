@@ -1,8 +1,8 @@
 ---
 title: TV, Halftime Shows, and the Big Game
 date: 2020-04-18
-tags: [data manipulation, data visualization, importing & cleaning data]
-excerpt: "Machine Learning, Data Science"
+tags: [python, data manipulation, data visualization, importing & cleaning data, datacamp]
+excerpt: "Data Science"
 mathjax: "true"
 ---
 
