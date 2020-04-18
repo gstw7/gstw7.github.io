@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Sobre mim"
-    url: /about/
-  - title: "Posts por tags"
-    url: /tags/
   - title: "CV"
     url: /cv/
+  - title: "Posts por tags"
+    url: /tags/
+  - title: "Sobre mim"
+    url: /about/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
