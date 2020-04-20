@@ -6,6 +6,8 @@ excerpt: "Data Science"
 mathjax: "true"
 ---
 
+## [Dados](https://github.com/gstw7/datasets-site/tree/master/The%20GitHub%20History%20of%20the%20Scala%20Language)
+
 ## 1. Scala's real-world project repository data
 <p>With almost 30k commits and a history spanning over ten years, Scala is a mature programming language. It is a general-purpose programming language that has recently become another prominent language for data scientists.</p>
 <p>Scala is also an open source project. Open source projects have the advantage that their entire development histories -- who made changes, what was changed, code reviews, etc. -- publicly available. </p>
