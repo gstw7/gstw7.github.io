@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "CV"
-    url: /cv/
+  - title: "PDF CV"
+    url: /cv/resume.pdf
   - title: "Posts por tags"
     url: /tags/
   - title: "Sobre mim"
